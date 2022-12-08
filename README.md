@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/Autor-Gabriel-red)](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
 
-# Projeto Análise Exploratória - Atenas
+# [Projeto Análise Exploratória - Atenas](https://github.com/Gabriel-Valadares/Analise-Exploratoria-Atenas/blob/master/Analisando_os_Dados_do_Airbnb_Atenas.ipynb)
 
 <p align="center">
   <img src="Atenas.jpg" >
