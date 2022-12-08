@@ -1,21 +1,18 @@
 [![author](https://img.shields.io/badge/Autor-Gabriel-red)](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
 
 <p align="center">
-  <img src="Banner.png" >
+  <img src="Atenas.jpg" >
 </p>
 
-# Gabriel Valadares
+# Projeto Análise Exploratória - Atenas
 
-Acesse o notebook onde eu desenvolvi o estudo atra
+O estudo é baseado em dados fornecidos pela Airbnb, a maior empresa hoteleira da atualidade, mesmo sem possuir nenhum hotel acerca de Atenas. A análise não é aprofundada, pois há poucas variáveis para isso, mas é possível tirar conclusões interessantes, como preço médio de locação, valor por latitude e longitude, entre outras coisas.
 
-**Background:** SQL, Power BI, Data Studio, Data Visualization, Excel avançado, Google Analytics e ferramentas de E-mail Marketing.
+Acesse aqui
 
+Caso queira conhecer mais sobre mim:
 **Links:**
-* [Site de Aula](https://gabrielmatematica.com.br)
+* [Aula Particular de Matemática](https://gabrielmatematica.com.br)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
-* [Medium - a criar](https://www.medium.com)
-
-
-## Projetos [a criar]:
 
 
