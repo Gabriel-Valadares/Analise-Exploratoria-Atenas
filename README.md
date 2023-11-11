@@ -12,5 +12,4 @@ Acesse meu projeto [aqui](https://github.com/Gabriel-Valadares/Analise-Explorato
 Muito obrigado e um grande abraço!
 
 Caso queira conhecer mais sobre mim:
-* [Aula Particular de Matemática](https://gabrielmatematica.com.br)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
